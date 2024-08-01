@@ -41,3 +41,20 @@ or
    yarn start
    ```
 The application will be available at [http://localhost:3000](http://localhost:3000).
+
+## Usage
+
+### Sign In
+
+To sign in, use the following credentials:
+
+- **Email:** eve.holt@reqres.in
+- **Password:** cityslicka
+
+### Sign Up
+
+To sign up, use the following credentials:
+
+- **Email:** eve.holt@reqres.in
+- **Password:** pistol
+
