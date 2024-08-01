@@ -4,7 +4,7 @@
 
 The **WebReinvent Dashboard** is a React application with TypeScript that includes a user management dashboard. The project is built using the following technologies:
 - **React** with **TypeScript**
-- **Pinia** for state management
+- **React Redux** for state management
 - **Tailwind CSS** for styling
 - **ReqRes API** for user authentication and data retrieval
 
@@ -27,3 +27,17 @@ The **WebReinvent Dashboard** is a React application with TypeScript that includ
    ```bash
    git clone https://github.com/BalajiDyavanpalli7030/WebReinvent-website.git
    cd WebReinvent-website
+
+## Run the Development Server
+
+To start the development server, you can use either of the following commands:
+
+```bash
+npm start
+
+or
+
+```bash
+yarn start
+```
+The application will be available at [http://localhost:3000](http://localhost:3000).
