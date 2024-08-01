@@ -32,12 +32,11 @@ The **WebReinvent Dashboard** is a React application with TypeScript that includ
 
 To start the development server, you can use either of the following commands:
 
-```bash
-npm start
+   ```bash
+   npm start
 
-or
+   or
 
-```bash
-yarn start
-```
+   yarn start
+   ```
 The application will be available at [http://localhost:3000](http://localhost:3000).
