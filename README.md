@@ -27,6 +27,7 @@ The **WebReinvent Dashboard** is a React application with TypeScript that includ
    ```bash
    git clone https://github.com/BalajiDyavanpalli7030/WebReinvent-website.git
    cd WebReinvent-website
+   npm i
 
 ## Run the Development Server
 
